@@ -1,4 +1,5 @@
 🛒 Retail Uplift Analysis
+
 This project is a simulation-based case study provided by Quantium (via Forage), where I analyzed the impact of a new store layout on customer purchasing behavior, specifically focusing on chip sales. Using uplift modeling and data-driven techniques, I identified the effectiveness of the layout change and provided strategic recommendations for business stakeholders.
 
 📊 Project Objectives
@@ -30,4 +31,3 @@ Applied real-world data analytics techniques in a commercial retail context.
 Enhanced ability to communicate findings to non-technical stakeholders.
 
 Gained practical experience in uplift modeling and KPI reporting.
-
